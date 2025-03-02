@@ -1,6 +1,6 @@
 # Privacy Policy for My AI Trend API
 
-**Last updated: [DATE]**
+**Last updated: [02/03/2025]**
 
 ## 1. Introduction
 This Privacy Policy explains how we collect, use, and protect your data.
@@ -17,4 +17,4 @@ This Privacy Policy explains how we collect, use, and protect your data.
 We may update this Privacy Policy at any time.
 
 ## 5. Contact
-If you have any questions, contact us at **[YOUR EMAIL]**.
+If you have any questions, contact us at **[information.mytrend@gmail.com]**.
