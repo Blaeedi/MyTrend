@@ -1,6 +1,6 @@
 Terms of Service for My AI Trend API
 
-Last updated: [DATE]
+Last updated: [02/03/2025]
 
 1. Introduction
 By using our AI Trend API, you agree to follow these terms.
@@ -14,4 +14,4 @@ We are not responsible for any misuse of the data provided by our API.
 4. Changes
 We reserve the right to update these terms at any time.
 
-For any questions, contact us at [YOUR EMAIL].
+For any questions, contact us at [information.mytrend@gmail.com].
